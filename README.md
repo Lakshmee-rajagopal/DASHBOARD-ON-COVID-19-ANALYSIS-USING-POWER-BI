@@ -1,4 +1,4 @@
-# DASHBOARD ON COVID 19 ANALYSIS USING POWER BI
+# COVID 19 ANALYSIS USING POWER BI
 
 DATASET :
 https://www.kaggle.com/datasets/imdevskp/corona-virus-report
